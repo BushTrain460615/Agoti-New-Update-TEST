@@ -6,7 +6,7 @@ Engine originally used on [Mind Games Mod](https://gamebanana.com/mods/301107), 
 * RiverOaken - Artist
 * Yoshubs - Assistant Programmer
 * BryteFrye - Programmer For Vs Entity
-I forgot everyone else i will look it up later
+* I forgot everyone else i will look it up later
 
 ### Special Thanks
 * bbpanzu - Ex-Programmer
