@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="discs.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="agoti0000" x="10" y="10" width="655" height="655"/>
+	<SubTexture name="agoti0001" x="675" y="10" width="655" height="655"/>
+	<SubTexture name="agoti0002" x="1340" y="10" width="655" height="655"/>
+	<SubTexture name="agoti0003" x="2005" y="10" width="655" height="655"/>
+	<SubTexture name="aldryx0000" x="2670" y="10" width="655" height="655"/>
+	<SubTexture name="aldryx0001" x="3335" y="10" width="655" height="655"/>
+	<SubTexture name="aldryx0002" x="10" y="675" width="655" height="655"/>
+	<SubTexture name="aldryx0003" x="675" y="675" width="655" height="655"/>
+	<SubTexture name="nikuza0000" x="1340" y="675" width="655" height="655"/>
+	<SubTexture name="nikuza0001" x="2005" y="675" width="655" height="655"/>
+	<SubTexture name="nikuza0002" x="2670" y="675" width="655" height="655"/>
+	<SubTexture name="nikuza0003" x="3335" y="675" width="655" height="655"/>
+	<SubTexture name="solazar0000" x="10" y="1340" width="652" height="652"/>
+	<SubTexture name="solazar0001" x="672" y="1340" width="652" height="652"/>
+	<SubTexture name="solazar0002" x="1334" y="1340" width="652" height="652"/>
+	<SubTexture name="solazar0003" x="1996" y="1340" width="652" height="652"/>
+</TextureAtlas>
